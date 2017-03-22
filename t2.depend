@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1466606589 source:/home/redproxy/Área de Trabalho/T2/t2/main.c
+	<stdio.h>
+
+1467588111 source:/home/redproxy/Área de Trabalho/T2/AternateBit/main.c
+	<stdio.h>
+
